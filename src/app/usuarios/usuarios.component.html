@@ -1,0 +1,29 @@
+<h1>Carreritas Info</h1>
+<section>
+
+<app-games (addFavoriteEvent)="getFavorite($event)" 
+(addFavoriteEvent1)="getLevel($event)" 
+(addFavoriteEvent2)="getVictorias($event)"
+(addFavoriteEventImagen)="getImgen($event)"
+username="{{username}}"> </app-games> 
+@if (favJugador  !== '' ) {
+    <div class="card">
+        <img src="{{imagenUrl}}" alt="perfil">
+        <p>Info jugador    <strong>  {{favJugador}}</strong></p>
+        <p><strong>Level</strong> {{favLevel}}</p>
+        <p><strong>Victorias</strong> {{favVictorias}}</p>
+        <h3 style="color: black;"><strong>Etiquetas</strong></h3>
+        @if(favVictorias > 50) {
+            <p>ProPlayer</p>
+        }@else {
+            <p>NoProPlayer</p>
+        }
+    </div>
+}    
+
+</section>
+
+
+
+
+
