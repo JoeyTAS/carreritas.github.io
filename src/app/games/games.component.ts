@@ -67,7 +67,7 @@ export class GamesComponent {
     },
     {
       id:3,
-      nombre:'Lucho',
+      nombre:'Luchito',
       level:'105',
       victorias:'3',
       imagen:'https://scontent.faqp6-1.fna.fbcdn.net/v/t1.6435-9/96094912_2713543162200889_5297512550940803072_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeG8ZCp4FblaP6pjYrwifaMKFGS4C_u4BO0UZLgL-7gE7XjkRp7mgp8GW4rhzYsB1AOn5uTgVRDoKvzAZMKEeuQM&_nc_ohc=pyoLrkrNXQQAb7OWCjk&_nc_ht=scontent.faqp6-1.fna&oh=00_AfCPPb9OyptUz-RieNHVfZ8uXm3DL--CR1-btsL3SOaHBA&oe=6640D226'
