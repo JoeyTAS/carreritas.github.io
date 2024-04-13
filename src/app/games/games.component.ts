@@ -51,14 +51,14 @@ export class GamesComponent {
   jugadores = [ 
     {
       id:1,
-      nombre:'JoeytA',
+      nombre:'JoeyTA',
       level:'165',
       victorias:'10',
       imagen: 'https://scontent.faqp6-1.fna.fbcdn.net/v/t39.30808-1/314751456_3257680764485754_6305938989372311451_n.jpg?stp=dst-jpg_p200x200&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFtLYg-C8xoXJz-R9L0HsT1MSrcjlsCEW8xKtyOWwIRb2EEYTmERveaeoC2rMD9sU-ilkPVGZxF_IsMWX8EZvbK&_nc_ohc=zumfEc7ABvAAb43Lj0C&_nc_ht=scontent.faqp6-1.fna&oh=00_AfCcxbX8Ha0FD4H4tT4KVGlZiUSqBiSRfnMckIb6IJf90Q&oe=661F2AD6'
     },
     {
       id:2,
-      nombre:'MatiNR',
+      nombre:'Ndreezy',
       level:'175',
       victorias:'2',
       imagen:'https://scontent.faqp6-1.fna.fbcdn.net/v/t39.30808-1/292754178_580065410340831_1325834541739214459_n.jpg?stp=c64.0.200.200a_dst-jpg_p200x200&_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeF3xX4BZoOumHn8tZeB5uJLT_HfMPSUgnJP8d8w9JSCcnq1EjPA2PYl_mNHWBRi5EMo9DNTmaxTwZpQJZtE9oF4&_nc_ohc=xwrMC_jelCIAb4pfhRs&_nc_ht=scontent.faqp6-1.fna&oh=00_AfA5qR7w8NsKrAYIfHUAxlzPBaX9FAjf1gffUwJjn8DWqA&oe=661F4CD0'
@@ -75,7 +75,7 @@ export class GamesComponent {
     },
     {
       id:4,
-      nombre:'NatgW',
+      nombre:'Gwhelyn',
       level:'145',
       victorias:'4',
       imagen:'https://scontent.faqp6-1.fna.fbcdn.net/v/t1.30497-1/143086968_2856368904622192_1959732218791162458_n.png?_nc_cat=1&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFj_wWq6NDnXLjMlGuK6Z5gso2H55p0AlGyjYfnmnQCUY_MWpkg5YpzBvODcPRw4Y_7sjOq0hRJem8B5FdqJe3y&_nc_ohc=W68-22KSoz0Ab5Cy9HA&_nc_ht=scontent.faqp6-1.fna&oh=00_AfCpR5RHQ0SOpJ7cm3G_jAq9uxlhPZG2zXMA2t-mxstw8w&oe=6640D878'
@@ -99,7 +99,7 @@ export class GamesComponent {
     ,
     {
       id:7,
-      nombre:'Aka_paris',
+      nombre:'Aka_paaris',
       level:'2000',
       victorias:'1000',
       imagen:'https://scontent.faqp6-1.fna.fbcdn.net/v/t39.30808-1/245355838_3294211144147282_3629900300683492486_n.jpg?stp=c0.0.720.720a_dst-jpg_p720x720&_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeF-zRH7IUZMj3uV-APi6wACWgkgJqD2X0laCSAmoPZfSSKNIfV2f0lNx7hYT9ubLUN_iC4bW0lBidM3ErubJg70&_nc_ohc=ghyv8zljCAgAb7dGEvw&_nc_ht=scontent.faqp6-1.fna&oh=00_AfDf1GtkdMmp483KSl9HiOQP9WXFcTL4Js0rIGT069zpzA&oe=661F7011'
