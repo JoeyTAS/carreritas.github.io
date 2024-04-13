@@ -60,7 +60,7 @@ export class GamesComponent {
       id:2,
       nombre:'Ndreezy',
       level:'174',
-      victorias:'119',
+      victorias:'120',
       imagen:'https://scontent.faqp6-1.fna.fbcdn.net/v/t39.30808-1/292754178_580065410340831_1325834541739214459_n.jpg?stp=c64.0.200.200a_dst-jpg_p200x200&_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeF3xX4BZoOumHn8tZeB5uJLT_HfMPSUgnJP8d8w9JSCcnq1EjPA2PYl_mNHWBRi5EMo9DNTmaxTwZpQJZtE9oF4&_nc_ohc=xwrMC_jelCIAb4pfhRs&_nc_ht=scontent.faqp6-1.fna&oh=00_AfA5qR7w8NsKrAYIfHUAxlzPBaX9FAjf1gffUwJjn8DWqA&oe=661F4CD0'
       
 
