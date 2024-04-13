@@ -52,8 +52,8 @@ export class GamesComponent {
     {
       id:1,
       nombre:'JoeyTA',
-      level:'165',
-      victorias:'10',
+      level:'158',
+      victorias:'93',
       imagen: 'https://scontent.faqp6-1.fna.fbcdn.net/v/t39.30808-1/314751456_3257680764485754_6305938989372311451_n.jpg?stp=dst-jpg_p200x200&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFtLYg-C8xoXJz-R9L0HsT1MSrcjlsCEW8xKtyOWwIRb2EEYTmERveaeoC2rMD9sU-ilkPVGZxF_IsMWX8EZvbK&_nc_ohc=zumfEc7ABvAAb43Lj0C&_nc_ht=scontent.faqp6-1.fna&oh=00_AfCcxbX8Ha0FD4H4tT4KVGlZiUSqBiSRfnMckIb6IJf90Q&oe=661F2AD6'
     },
     {
@@ -67,33 +67,33 @@ export class GamesComponent {
     },
     {
       id:3,
-      nombre:'Revolt',
-      level:'105',
-      victorias:'3',
+      nombre:'Revolt935',
+      level:'91',
+      victorias:'43',
       imagen:'https://scontent.faqp6-1.fna.fbcdn.net/v/t1.6435-9/96094912_2713543162200889_5297512550940803072_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeG8ZCp4FblaP6pjYrwifaMKFGS4C_u4BO0UZLgL-7gE7XjkRp7mgp8GW4rhzYsB1AOn5uTgVRDoKvzAZMKEeuQM&_nc_ohc=pyoLrkrNXQQAb7OWCjk&_nc_ht=scontent.faqp6-1.fna&oh=00_AfCPPb9OyptUz-RieNHVfZ8uXm3DL--CR1-btsL3SOaHBA&oe=6640D226'
 
     },
     {
       id:4,
       nombre:'Gwhelyn',
-      level:'145',
-      victorias:'4',
+      level:'107',
+      victorias:'63',
       imagen:'https://scontent.faqp6-1.fna.fbcdn.net/v/t1.30497-1/143086968_2856368904622192_1959732218791162458_n.png?_nc_cat=1&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFj_wWq6NDnXLjMlGuK6Z5gso2H55p0AlGyjYfnmnQCUY_MWpkg5YpzBvODcPRw4Y_7sjOq0hRJem8B5FdqJe3y&_nc_ohc=W68-22KSoz0Ab5Cy9HA&_nc_ht=scontent.faqp6-1.fna&oh=00_AfCpR5RHQ0SOpJ7cm3G_jAq9uxlhPZG2zXMA2t-mxstw8w&oe=6640D878'
 
     },
     {
       id:5,
-      nombre:'Allison',
-      level:'200',
-      victorias:'5',
+      nombre:'Ali_lm',
+      level:'204',
+      victorias:'25',
       imagen:'https://scontent.faqp6-1.fna.fbcdn.net/v/t1.6435-1/70598748_2401320533525561_2338028935784169472_n.jpg?stp=c0.0.200.200a_dst-jpg_p200x200&_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGe5DA8oLqptYeOdBDkokP1PeF1W8TRLaY94XVbxNEtpn3r1E_rfh2yb6XfZP5ARzXhU34i0GLcLiWL3UJ7wNfW&_nc_ohc=hZZrgqF67FYAb7UyxDx&_nc_ht=scontent.faqp6-1.fna&oh=00_AfDHvauSQsMrStXBKmFHQ3n7Z6laGKUnXtHKuSjXqU-tsA&oe=6640DACE'
     }
     ,
     {
       id:6,
       nombre:'CarHachi',
-      level:'70',
-      victorias:'-1',
+      level:'68',
+      victorias:'1',
       imagen:'https://scontent.faqp6-1.fna.fbcdn.net/v/t39.30808-1/367377861_3544039935865741_3471833865997547334_n.jpg?stp=dst-jpg_p200x200&_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEiZqPcV1zfz3250sHXoCyld1VH_7Gdc5d3VUf_sZ1zlyctymIU6_e9i75efzInxZ7Inccsn6Z2T9ts3qcDg2_w&_nc_ohc=60B7w4XxtxMAb4mWztW&_nc_ht=scontent.faqp6-1.fna&oh=00_AfCTQR3JVNc4voBaVSkXJKormOwF2QF9IslnsxUdh5D8DQ&oe=661F71C1'
     }
     ,
