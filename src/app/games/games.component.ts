@@ -53,7 +53,7 @@ export class GamesComponent {
       id:1,
       nombre:'JoeyTA',
       level:'158',
-      victorias:'93',
+      victorias:'94',
       imagen: 'https://scontent.faqp6-1.fna.fbcdn.net/v/t39.30808-1/314751456_3257680764485754_6305938989372311451_n.jpg?stp=dst-jpg_p200x200&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFtLYg-C8xoXJz-R9L0HsT1MSrcjlsCEW8xKtyOWwIRb2EEYTmERveaeoC2rMD9sU-ilkPVGZxF_IsMWX8EZvbK&_nc_ohc=zumfEc7ABvAAb43Lj0C&_nc_ht=scontent.faqp6-1.fna&oh=00_AfCcxbX8Ha0FD4H4tT4KVGlZiUSqBiSRfnMckIb6IJf90Q&oe=661F2AD6'
     },
     {
@@ -69,7 +69,7 @@ export class GamesComponent {
       id:3,
       nombre:'Revolt935',
       level:'91',
-      victorias:'45',
+      victorias:'46',
       imagen:'https://scontent.faqp6-1.fna.fbcdn.net/v/t1.6435-9/96094912_2713543162200889_5297512550940803072_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeG8ZCp4FblaP6pjYrwifaMKFGS4C_u4BO0UZLgL-7gE7XjkRp7mgp8GW4rhzYsB1AOn5uTgVRDoKvzAZMKEeuQM&_nc_ohc=pyoLrkrNXQQAb7OWCjk&_nc_ht=scontent.faqp6-1.fna&oh=00_AfCPPb9OyptUz-RieNHVfZ8uXm3DL--CR1-btsL3SOaHBA&oe=6640D226'
 
     },
@@ -77,7 +77,7 @@ export class GamesComponent {
       id:4,
       nombre:'Gwhelyn',
       level:'107',
-      victorias:'63',
+      victorias:'64',
       imagen:'https://scontent.faqp6-1.fna.fbcdn.net/v/t1.30497-1/143086968_2856368904622192_1959732218791162458_n.png?_nc_cat=1&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFj_wWq6NDnXLjMlGuK6Z5gso2H55p0AlGyjYfnmnQCUY_MWpkg5YpzBvODcPRw4Y_7sjOq0hRJem8B5FdqJe3y&_nc_ohc=W68-22KSoz0Ab5Cy9HA&_nc_ht=scontent.faqp6-1.fna&oh=00_AfCpR5RHQ0SOpJ7cm3G_jAq9uxlhPZG2zXMA2t-mxstw8w&oe=6640D878'
 
     },
