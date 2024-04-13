@@ -14,9 +14,12 @@ username="{{username}}"> </app-games>
         <p><strong>Victorias</strong> {{favVictorias}}</p>
         <h3 style="color: black;"><strong>Etiquetas</strong></h3>
         @if(favVictorias > 50) {
-            <p>ProPlayer</p>
-        }@else {
-            <p>NoProPlayer</p>
+            <p>ProPlayer III</p>
+        }@if (favVictorias > 100) {
+            <p>ProPlayer II </p>
+        }
+        @else {
+            <p>NoProPlayer I </p>
         }
     </div>
 }    
