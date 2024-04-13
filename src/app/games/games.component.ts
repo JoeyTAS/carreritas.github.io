@@ -104,5 +104,13 @@ export class GamesComponent {
       victorias:'1000',
       imagen:'https://scontent.faqp6-1.fna.fbcdn.net/v/t39.30808-1/245355838_3294211144147282_3629900300683492486_n.jpg?stp=c0.0.720.720a_dst-jpg_p720x720&_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeF-zRH7IUZMj3uV-APi6wACWgkgJqD2X0laCSAmoPZfSSKNIfV2f0lNx7hYT9ubLUN_iC4bW0lBidM3ErubJg70&_nc_ohc=ghyv8zljCAgAb7dGEvw&_nc_ht=scontent.faqp6-1.fna&oh=00_AfDf1GtkdMmp483KSl9HiOQP9WXFcTL4Js0rIGT069zpzA&oe=661F7011'
     }
+    ,
+    {
+      id:8,
+      nombre:'Michel',
+      level:'140',
+      victorias:'3',
+      imagen:'https://scontent.faqp6-1.fna.fbcdn.net/v/t1.18169-9/18275248_1227751587350623_8942116716893821001_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHx0aEkUJe77Bq4LaJLh5M5O9t7tTbuaNY723u1Nu5o1uqaXxk2ZCoB56f2TyqhQZ_HQnZjq-gLZwwIGsHCdjJb&_nc_ohc=00UEweH5l0wAb5dI1wp&_nc_ht=scontent.faqp6-1.fna&oh=00_AfCxWI6KhGj4dG-lm6K8mMdvB7ODHZitjoLZ8mQJsC1kNQ&oe=66416397'
+    }
   ]
 }
